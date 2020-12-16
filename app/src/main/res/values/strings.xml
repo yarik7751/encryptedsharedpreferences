@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">encryptedsharedpreferences</string>
+
+    <string name="execution_time">Execution time: %s ms</string>
+</resources>
